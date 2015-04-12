@@ -5,7 +5,7 @@
     <description>Great stories about all the sights in Rome</description>
     <author email="pdenarend@" href="http://www.things-to-do-in-rome.com">Webmaster</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
