@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.things-to-do-in-rome.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	54%7C44%7C40%7C52
+www.things-to-do-in-rome.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.things-to-do-in-rome.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	88a8c4ced0cfe7ccee80df0f9f4ede88
+www.things-to-do-in-rome.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_816a53b316bbf7ceb77381d8aa8ef838	e8bd5203822ebc84d7b3e9fb6c902165%7C%7C1429791512%7C%7C1429787912%7C%7C11ffd86478b0714ca55f1fc8f5c7a413
+
